@@ -1,0 +1,13 @@
+.navbar{
+	background-color:#DAA520;
+    border-color: #DAA520;
+	color: white;
+}
+
+.img-circle{
+	border-radius: 50%;
+	height: 200px;
+	width: 200px;
+    position: relative;
+    overflow: hidden;
+}
